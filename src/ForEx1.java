@@ -1,3 +1,5 @@
+//Ex 10 na apostila
+
 import java.util.Scanner;
 
 public class ForEx1 {
@@ -12,7 +14,7 @@ public class ForEx1 {
         if(valor>0){
             for(cont = 1; cont <= valor; cont++) {
                 if (valor % cont == 0){
-                    System.out.println(cont + " ");
+                   System.out.println(cont + " ");
                 }
             }
         } else {

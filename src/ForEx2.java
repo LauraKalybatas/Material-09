@@ -1,3 +1,5 @@
+//Ex 12 na apostila
+
 import java.util.Scanner;
 
 public class ForEx2 {
